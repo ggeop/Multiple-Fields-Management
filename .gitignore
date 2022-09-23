@@ -1,0 +1,3 @@
+# Exclude python executables and cached folders
+*.pyc
+__pycache__
